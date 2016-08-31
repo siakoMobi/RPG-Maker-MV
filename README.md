@@ -1,5 +1,6 @@
 # RPG-Maker-MV v1.3.1
-JS 核心檔案分離參考用
+siakoMobi 針對最新版 RPG-Maker-MV v1.3.1
+內的 JS 核心檔案全部拆解分離成單獨獨立之JS檔案
 
 rpg_core
 rpg_managers
