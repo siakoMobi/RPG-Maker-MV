@@ -9,4 +9,4 @@ rpg_scenes
 rpg_sprites
 rpg_windows
 
-共 153 JS檔案，方便開發 MV Game 參考用
+共 153 JS檔案，方便開發 MV Game 參考用。
