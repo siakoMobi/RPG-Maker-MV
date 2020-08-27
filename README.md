@@ -7,7 +7,7 @@ rpg_managers
 rpg_objects
 rpg_scenes
 rpg_sprites
-rpg_windows
+rpg_windows ---> 已更新!
 
 共 153 JS檔案，方便開發 MV Game 參考用。
 
